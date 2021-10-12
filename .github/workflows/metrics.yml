@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0,12 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -27,9 +27,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 120
+          plugin_languages_recent_days: 179
           plugin_languages_recent_load: 300
           plugin_languages_sections: recently-used
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 1%
           repositories_forks: no
           repositories_affiliations: owner, collaborator
