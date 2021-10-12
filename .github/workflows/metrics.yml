@@ -28,7 +28,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 179
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 500
           plugin_languages_sections: recently-used
           plugin_languages_threshold: 1%
           repositories_forks: no
