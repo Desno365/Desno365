@@ -1367,7 +1367,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1387,7 +1387,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            4811 Commits
+            4813 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1444,17 +1444,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 438 edited files from 251 commits over last 46 days
+            estimation from 436 edited files from 246 commits over last 46 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.76271378071897" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="221.76271378071897" y="0" width="124.44709827067496" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="346.20981205139395" y="0" width="61.36946855363134" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="407.57928060502525" y="0" width="52.42071939497473" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.3219374584263" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="211.3219374584263" y="0" width="129.04149722412112" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="340.36343468254745" y="0" width="64.9606512490073" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="405.32408593155475" y="0" width="54.67591406844527" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1464,8 +1464,8 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>272 kB</div>
-                                <div>48.21%</div>
+                                <div>249 kB</div>
+                                <div>45.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1474,8 +1474,8 @@
                       Dart
                     </div>
                             <small>
-                                <div>75.5 kB</div>
-                                <div>13.34%</div>
+                                <div>76.6 kB</div>
+                                <div>14.12%</div>
                             </small>
                         </div>
                     </section>
@@ -1486,8 +1486,8 @@
                       Python
                     </div>
                             <small>
-                                <div>153 kB</div>
-                                <div>27.05%</div>
+                                <div>152 kB</div>
+                                <div>28.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1497,7 +1497,7 @@
                     </div>
                             <small>
                                 <div>64.5 kB</div>
-                                <div>11.4%</div>
+                                <div>11.89%</div>
                             </small>
                         </div>
                     </section>
@@ -3494,10 +3494,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8620689655172415 0,2.8620689655172415 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8620689655172415 1.7,3.8620689655172415 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.931034482758621)">
+                            <g transform="translate(-5.1, 6.517241379310345)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.068965517241379 0,3.0689655172413794 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0689655172413794 1.7,4.068965517241379 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.482758620689655 0,3.4827586206896552 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4827586206896552 1.7,4.482758620689655 z"/>
                             </g>
                         </g>
                     </g>
@@ -3505,7 +3505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/10/2021, 02:40 (timezone Europe/Rome) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 20/10/2021, 14:18 (timezone Europe/Rome) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
