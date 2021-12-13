@@ -1505,17 +1505,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 269 edited files from 225 commits over last 31 days
+            estimation from 269 edited files from 225 commits over last 32 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.31963753083363" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="220.31963753083363" y="0" width="194.9211485070853" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="415.24078603791895" y="0" width="39.360002477010255" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="454.6007885149292" y="0" width="5.399211485070853" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.323348040354" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="220.323348040354" y="0" width="194.91813091828573" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="415.24147895863973" y="0" width="39.35939314188405" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="454.6008721005238" y="0" width="5.399127899476223" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3552,7 +3552,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2021, 01:41:12 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 13 Dec 2021, 13:19:35 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
