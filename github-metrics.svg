@@ -148,15 +148,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 302 edited files from 240 commits over last 33 days</small>
+                <small>estimation from 302 edited files from 240 commits over last 34 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.7217815435771" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="373.7217815435771" y="0" width="60.75491256535064" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="434.47669410892775" y="0" width="25.52330589107225" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.72545386716604" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="373.72545386716604" y="0" width="60.752326609097125" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="434.47778047626315" y="0" width="25.522219523736798" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2212,7 +2212,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 01:52:23 (timezone Europe/Rome) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 13:20:15 (timezone Europe/Rome) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
