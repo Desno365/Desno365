@@ -154,9 +154,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.6985617979391" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="419.6985617979391" y="0" width="26.507708945359923" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="446.206270743299" y="0" width="13.793729256701043" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.7361081757566" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="419.7361081757566" y="0" width="26.468333395493783" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="446.2044415712504" y="0" width="13.795558428749622" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -169,7 +169,7 @@
                             </div>
                             <small>
                                 <div>440 kB</div>
-                                <div>91.24%</div>
+                                <div>91.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -194,8 +194,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>27.8 kB</div>
-                                <div>5.76%</div>
+                                <div>27.7 kB</div>
+                                <div>5.75%</div>
                             </small>
                         </div>
                     </section>
@@ -2222,7 +2222,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2022, 02:57:40 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 14:22:47 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
