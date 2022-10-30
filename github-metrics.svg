@@ -154,8 +154,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.45812177888433" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="276.45812177888433" y="0" width="183.54187822111564" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.37318948307353" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="276.37318948307353" y="0" width="183.62681051692647" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -168,7 +168,7 @@
                             </div>
                             <small>
                                 <div>141 kB</div>
-                                <div>60.1%</div>
+                                <div>60.08%</div>
                             </small>
                         </div>
                     </section>
@@ -182,7 +182,7 @@
                             </div>
                             <small>
                                 <div>93.9 kB</div>
-                                <div>39.9%</div>
+                                <div>39.92%</div>
                             </small>
                         </div>
                     </section>
@@ -2219,7 +2219,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2022, 02:24:55 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 30 Oct 2022, 13:28:15 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
