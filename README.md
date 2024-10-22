@@ -18,8 +18,8 @@
 
 ## Public GPG keys
 
-Back in April 2024, I started signing all my commits with a PGP key.<br>
-You can find the updated list of my keys here: [Dennis's GPG Keys](https://github.com/Desno365/Desno365/tree/main/public-keys)
+Back in April 2024, I started signing all my commits.<br>
+You can find my GPG keys here: [Dennis's GPG Keys](https://github.com/Desno365/Desno365/tree/main/public-keys)
 
 ## Keep in touch
 
