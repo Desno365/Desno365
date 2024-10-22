@@ -16,6 +16,11 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/unity.svg" alt="js" style="max-width: 100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="js" style="max-width: 100%;">
 
+## Public GPG keys
+
+Back in April 2024, I started signing all my commits with a PGP key.<br>
+You can find the updated list of my keys here: [Dennis's GPG Keys](https://github.com/Desno365/Desno365/tree/main/public-keys)
+
 ## Keep in touch
 
 <div>
