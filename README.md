@@ -1,10 +1,10 @@
 # 👋 Hello world! I'm Dennis
 
-🧑🏼‍💻💻 Software Engineer
+💻 Software Engineer
 
-👨🏼‍🔬🧪 Startupper
+🧪 Startupper
 
-🏊🏻‍♂️💦 Swimmer
+🐬 Swimmer
 
 <div>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="js" style="max-width: 100%;">
